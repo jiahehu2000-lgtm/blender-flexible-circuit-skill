@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.blend
+*.blend[0-9]*
+*.dwg
+*.ai
+*.exr
+audit/
+output/
+test-output/
+.env
+.env.*
+*recovery*code*
+*credential*
+*token*

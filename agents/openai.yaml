@@ -1,0 +1,4 @@
+interface:
+  display_name: "Blender 柔性电路绘图"
+  short_description: "透明柔性管壁、实心双绞线与贴附电路的建模修复及科研示意图核验"
+  default_prompt: "使用 $blender-flexible-circuit-skill 修改柔性电路场景，保持已认可的布局、材质和相机，并核验实体拓扑与圆截面后输出新版本。"
